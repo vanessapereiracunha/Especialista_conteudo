@@ -1,0 +1,36 @@
+book:
+  title: "A Arte da Guerra"
+  author: "Sun Tzu"
+  publication_label: "Obra tradicionalmente atribuída ao século V a.C.; texto provavelmente compilado no início do Período dos Reinos Combatentes, conforme Encyclopaedia Britannica."
+  source_path: "data/source/a_arte_da_guerra.pdf"
+  source_format: "pdf"
+  source_notes: "PDF fornecido pelo teste técnico via Google Drive."
+
+editorial:
+  target_audience: "Profissionais de conteúdo, marketing, liderança e operação que precisam transformar estratégia em ação."
+  promised_transformation: "Ajudar o leitor a trocar improviso por leitura de contexto, escolha de prioridades e execução estratégica."
+  tone_of_voice: "Claro, estratégico, pragmático e acessível."
+  editorial_rules:
+    - "Não inventar fatos históricos ou bibliográficos."
+    - "Tratar a obra como texto clássico de estratégia, evitando anacronismos desnecessários."
+    - "Usar exemplos e aplicações contemporâneas apenas quando claramente marcados como interpretação editorial."
+    - "Preservar as ideias centrais da obra sem copiar trechos extensos."
+    - "Evitar sensacionalismo."
+
+generation:
+  microbook_min_words: 800
+  microbook_max_words: 1000
+  max_source_chars: 12000
+
+llm:
+  provider: "openai_compatible"
+  temperature: 0.3
+  review_temperature: 0.1
+
+output:
+  ideas_map_file: "output/editorial_ideas.json"
+  editorial_file: "output/editorial.md"
+  distribution_file: "output/distribution.md"
+  review_file: "output/review.md"
+  operations_file: "output/operacao_editorial.md"
+  ai_usage_file: "output/ai_usage.md"
