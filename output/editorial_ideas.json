@@ -1,0 +1,95 @@
+{
+  "book_title": "A Arte da Guerra",
+  "ideas": [
+    {
+      "idea_id": "idea_01",
+      "title": "A Importância da Avaliação na Guerra",
+      "summary": "A guerra é uma questão vital para o Estado e deve ser avaliada com seriedade para garantir a sobrevivência e a preservação do império.",
+      "source_reference": {
+        "page_start": 2,
+        "page_end": 2,
+        "section_hint": "Sobre a avaliação"
+      },
+      "themes": [
+        "estratégia militar",
+        "importância da avaliação"
+      ],
+      "evidence_excerpt": "Sun Tzu disse: a guerra é de vital importância para o Estado; é o domínio da vida ou da morte, é o caminho para a sobrevivência ou a perda do Império: é preciso manejá-la bem. Não refletir seriamente sobre tudo o que lhe concerne é dar prova de lastimável indiferença no que diz respeito à conservação ou à perda do que nos é mais querido; e isso não deve ocorrer entre nós."
+    },
+    {
+      "idea_id": "idea_02",
+      "title": "Os Cinco Fatores Fundamentais da Guerra",
+      "summary": "Existem cinco fatores fundamentais que devem ser considerados para avaliar as condições de guerra: doutrina, tempo, terreno, mando e disciplina.",
+      "source_reference": {
+        "page_start": 2,
+        "page_end": 2,
+        "section_hint": "Sobre a avaliação"
+      },
+      "themes": [
+        "fatores de guerra",
+        "estratégia"
+      ],
+      "evidence_excerpt": "Há que valorá-la em termos de cinco fatores fundamentais, e fazer comparações entre as diversas condições dos contendores, com vistas a determinar o resultado da guerra. O primeiro desses fatores é a doutrina; o segundo, o tempo, o terceiro, o terreno, o quarto, o mando e o quinto, a disciplina."
+    },
+    {
+      "idea_id": "idea_03",
+      "title": "A Arte do Engano na Guerra",
+      "summary": "O engano é uma estratégia essencial na guerra, onde aparentar fraqueza pode levar à vitória.",
+      "source_reference": {
+        "page_start": 3,
+        "page_end": 3,
+        "section_hint": "A arte da guerra se baseia no engano"
+      },
+      "themes": [
+        "estratégia de engano",
+        "táticas militares"
+      ],
+      "evidence_excerpt": "A arte da guerra se baseia no engano. Portanto, quando és capaz de atacar, deves aparentar incapacidade e, quando as tropas se movem, aparentar inatividade. Se estás perto do inimigo, deves fazê-lo crer que estás longe; se longe, aparentar que se está perto."
+    },
+    {
+      "idea_id": "idea_04",
+      "title": "A Importância da Logística e Suprimentos",
+      "summary": "A logística e a gestão de suprimentos são cruciais para o sucesso militar, evitando o empobrecimento do país e garantindo a sustentabilidade das operações.",
+      "source_reference": {
+        "page_start": 4,
+        "page_end": 4,
+        "section_hint": "Sobre o princípio das ações"
+      },
+      "themes": [
+        "logística militar",
+        "sustentabilidade"
+      ],
+      "evidence_excerpt": "Quando um país empobrece por causa das operações militares, isso se deve ao transporte de provisões de um lugar distante. Se as transportas desde um lugar distante, o povo empobrecerá."
+    },
+    {
+      "idea_id": "idea_05",
+      "title": "A Necessidade de Recompensas Justas",
+      "summary": "Recompensar os soldados de forma justa é fundamental para manter a moral e a eficácia do exército.",
+      "source_reference": {
+        "page_start": 5,
+        "page_end": 5,
+        "section_hint": "Sobre as proposições da vitória e a derrota"
+      },
+      "themes": [
+        "moral militar",
+        "gestão de tropas"
+      ],
+      "evidence_excerpt": "Quando recompensas teus homens com os benefícios que ostentavam os adversários eles lutarão com iniciativa própria, e assim poderás tomar o poder e a influência que antes tinha o inimigo."
+    },
+    {
+      "idea_id": "idea_06",
+      "title": "A Superioridade da Vitória Sem Conflito",
+      "summary": "Os melhores estrategistas são aqueles que conseguem vencer sem recorrer à força, desestabilizando o inimigo antes do combate.",
+      "source_reference": {
+        "page_start": 5,
+        "page_end": 5,
+        "section_hint": "Sobre as proposições da vitória e a derrota"
+      },
+      "themes": [
+        "estratégia de vitória",
+        "conflito"
+      ],
+      "evidence_excerpt": "Um General dizia: 'Pratica as artes marciais; calcula a força de teus adversários; faz com que percam o ânimo e a orientação, de maneira que ainda estando intacto, o exército inimigo fique imprestável: Isto é ganhar sem violência.'"
+    }
+  ]
+}
