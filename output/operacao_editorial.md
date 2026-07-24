@@ -1,13 +1,11 @@
 # Operação Editorial
 
-Eu reorganizaria o trabalho a partir do risco editorial. A prioridade imediata seria validar as duas informações possivelmente inventadas, porque qualquer erro de fidelidade compromete o microbook e também os roteiros que derivam dele.
+Eu reorganizaria o trabalho começando pelo que oferece mais risco: as duas informações que podem ter sido inventadas pela IA. Se elas estiverem erradas, isso afeta o microbook e também os roteiros que vieram dele.
 
-As duas afirmações prioritárias para verificação são:
-1. a recomendação de que a avaliação deve ser cultivada como “um hábito” para qualquer profissional;
-2. a interpretação de que o princípio do engano equivale diretamente a “adaptação e inovação”.
+Eu verificaria primeiro essas duas afirmações no texto original e confirmaria em quais materiais elas aparecem. Se o problema estiver só em alguns trechos, eu travaria apenas esses pontos para correção.
 
-Eu verificaria primeiro se essas informações estão de fato sustentadas pela fonte e em quais peças elas aparecem. Se estiverem só em trechos específicos, eu congelaria apenas essas partes. Eu não esperaria a correção das duas informações para iniciar as tarefas que não dependem delas. Em paralelo, manteria revisão estrutural, preparação de publicação e tudo o que não depende dos pontos sob dúvida.
+Em paralelo, eu deixaria andando o que não depende dessas partes: revisão de estrutura, preparação de publicação e ajustes gerais. Também reorganizaria o UGC para acomodar o atraso de um dia sem comprometer a entrega de sexta-feira.
 
-Ao mesmo tempo, eu replanejaria o UGC para absorver o atraso de um dia sem travar a sexta-feira. As pessoas que precisam ser informadas imediatamente são revisão, liderança editorial, responsável por distribuição/UGC e quem fará a publicação.
+Eu avisaria imediatamente quem está em revisão, quem cuida do conteúdo UGC, quem vai publicar e a pessoa responsável pela decisão final.
 
-Para reduzir recorrência, eu ajustaria o processo com uma etapa obrigatória de checagem de afirmações sensíveis antes da aprovação final, marcando com clareza o que veio da fonte, o que é interpretação editorial e o que exige confirmação adicional.
+Para reduzir a chance de isso acontecer de novo, eu incluiria uma checagem obrigatória das afirmações mais sensíveis antes da aprovação final, separando com clareza o que veio da fonte e o que é interpretação.
