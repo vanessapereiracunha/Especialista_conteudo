@@ -23,6 +23,22 @@ Para avaliar a entrega com rapidez, esta é a melhor ordem de leitura:
 - `output/distribution.md`: adaptação para três roteiros;
 - `output/ai_usage.md`: transparência do uso de IA.
 
+## Onde encontrar cada item pedido no teste
+- **Parte 1 — Conteúdo editorial em Markdown**: `output/editorial.md`
+- **Briefing editorial (metadados, público, transformação, cinco ideias, tom de voz)**: seção inicial de `output/editorial.md`
+- **Microbook de 800 a 1.000 palavras**: seção principal de `output/editorial.md`
+- **README do agente editorial explicando o racional**: `docs/editorial-agent/README.md`
+- **Parte 2 — 3 roteiros de Reels em Markdown**: `output/distribution.md`
+- **README do projeto explicando o racional e a execução**: `README.md`
+- **Parte 3 — Operação editorial**: `output/operacao_editorial.md` 
+- **Registro do uso de IA**: `output/ai_usage.md`
+- **Código do projeto**: `src/`, `tests/`, `config/` e demais arquivos versionados neste repositório público
+
+Itens complementares:
+- `output/review.md`: revisão crítica das saídas geradas
+- `output/editorial_ideas.json`: mapa estruturado de ideias com origem e evidências
+- `docs/distribution-agent/README.md`: racional do agente de distribuição
+
 ## Objetivo
 Demonstrar capacidade de:
 - orientar modelos de linguagem;
