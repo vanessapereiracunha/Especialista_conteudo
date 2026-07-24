@@ -3,6 +3,8 @@
 ## Objetivo
 Construir uma pipeline editorial assistida por IA, simples e rastreável, capaz de transformar uma obra-fonte em briefing editorial, microbook, revisão crítica e roteiros de distribuição sem ultrapassar o escopo de um teste técnico.
 
+O uso de SDD/Spec Kit serve para estruturar requisitos e critérios de aceitação. O trabalho principal do projeto está na implementação da pipeline, nos contratos de saída, nas validações, na rastreabilidade e na revisão crítica.
+
 ## Princípios
 
 1. **Simplicidade antes de complexidade**
