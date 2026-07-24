@@ -105,18 +105,18 @@ Copie `.env.example` para `.env` ou configure manualmente:
 
 Parâmetros avançados de retry e limite de saída podem ser ajustados no `.env.example`, mas não são necessários para entender ou executar o fluxo básico.
 
-### Exemplo com Groq
+### Exemplo com OpenRouter
 O cliente do projeto foi preparado para provedores compatíveis com a API da OpenAI.  
-Para usar **Groq**, um exemplo funcional é:
+Na execução final deste projeto, o provedor utilizado foi o **OpenRouter**. Um exemplo funcional é:
 
 ```env
-LLM_BASE_URL=https://api.groq.com/openai/v1
+LLM_BASE_URL=https://openrouter.ai/api/v1
 LLM_API_KEY=sua_chave_do_provedor_aqui
-LLM_MODEL=llama-3.3-70b-versatile
+LLM_MODEL=openai/gpt-4o-mini
 LLM_TIMEOUT_SECONDS=90
 ```
 
-Esse formato funciona bem para o fluxo atual. O cliente também pode ser adaptado para outros provedores compatíveis.
+Esse formato funciona bem para o fluxo atual. O cliente também pode ser adaptado para outros provedores compatíveis, como Gemini via endpoint compatível ou outros gateways OpenAI-compatible.
 
 ## Execução
 
@@ -132,9 +132,9 @@ Durante a execução completa, a pipeline imprime a etapa atual no terminal e sa
 ### Exemplo de execução no PowerShell
 
 ```powershell
-$env:LLM_BASE_URL="https://api.groq.com/openai/v1"
+$env:LLM_BASE_URL="https://openrouter.ai/api/v1"
 $env:LLM_API_KEY="SUA_CHAVE_DO_PROVEDOR"
-$env:LLM_MODEL="llama-3.3-70b-versatile"
+$env:LLM_MODEL="openai/gpt-4o-mini"
 $env:LLM_TIMEOUT_SECONDS="90"
 python -m src.main
 ```
